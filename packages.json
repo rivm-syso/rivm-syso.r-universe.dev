@@ -1,30 +1,37 @@
 [
   {
     "package": "ROvis.utils",
-    "url": "https://github.com/rivm-syso/ROvis.utils"
+    "url": "https://github.com/rivm-syso/ROvis.utils",
+    "branch": "*release"
   },
   {
     "package": "ROvis.ggplot2",
-    "url": "https://github.com/rivm-syso/ROvis.ggplot2"
+    "url": "https://github.com/rivm-syso/ROvis.ggplot2",
+    "branch": "*release"
   },
   {
     "package": "ROvis.plotly",
-    "url": "https://github.com/rivm-syso/ROvis.plotly"
+    "url": "https://github.com/rivm-syso/ROvis.plotly",
+    "branch": "*release"
   },
   {
     "package": "ROvis.echarts",
-    "url": "https://github.com/rivm-syso/ROvis.echarts"
+    "url": "https://github.com/rivm-syso/ROvis.echarts",
+    "branch": "*release"
   },
   {
     "package": "ROvis.table",
-    "url": "https://github.com/rivm-syso/ROvis.table"
+    "url": "https://github.com/rivm-syso/ROvis.table",
+    "branch": "*release"
   },
   {
     "package": "ROvis.shiny",
-    "url": "https://github.com/rivm-syso/ROvis.shiny"
+    "url": "https://github.com/rivm-syso/ROvis.shiny",
+    "branch": "*release"
   },
   {
     "package": "ROvis",
-    "url": "https://github.com/rivm-syso/ROvis"
+    "url": "https://github.com/rivm-syso/ROvis",
+    "branch": "*release"
   }
 ]
